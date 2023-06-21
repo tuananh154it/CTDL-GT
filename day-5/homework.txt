@@ -2,7 +2,7 @@ https://leetcode.com/problems/binary-search/submissions/976035353/
 
 https://leetcode.com/problems/search-insert-position/submissions/976047239/
 
-https://leetcode.com/problems/guess-number-higher-or-lower/submissions/976068495/
+https://leetcode.com/problems/guess-number-higher-or-lower/submissions/976091683/
 
 https://leetcode.com/problems/missing-number/submissions/976078916/
 
