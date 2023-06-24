@@ -1,6 +1,6 @@
 package majority_element;
 
-public class Solution {
+public class 23Solution {
     public int majorityElement(int[] nums) {
         int n = nums.length;
         int count  = 1 ;
